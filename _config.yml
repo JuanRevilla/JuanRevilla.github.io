@@ -1,0 +1,6 @@
+# Elige un tema de Jekyll soportado por GitHub Pages
+theme: jekyll-theme-minimal
+
+# Título y descripción de tu sitio
+title: El Título de Mi Página Web
+description: Una breve descripción que aparecerá en buscadores.
